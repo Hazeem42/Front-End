@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    background: #1F2937;
+    color: white
+}
+.container {
+    margin-left: 20px;
+}
+
+.gen {
+    font-weight: bolder;
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+.rndmpass {
+    color: #10B981;
+    margin-bottom: 0;
+    font-size: 35px;
+}
+
+.nvr {
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.gnpass {
+    background-color: #10B981;
+    font-size: 12px;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    height: 42px;
+    border-radius: 6px;
+    border: none;
+}
+
+.center {
+    border: 1px solid #2F3E53;
+}
+
+.dis-1{
+    font-size: 14px;
+    color: white;
+    height: 30px;
+    width: 120px;
+    margin-right: 6px;
+    background: #2F3E53;
+    border: none;
+    border-radius: 4px;
+}
+
+.dis-2 {
+    font-size: 14px;
+    color: white;
+    height: 30px;
+    width: 120px;
+    margin-left: 6px;
+    background: #2F3E53;
+    border: none;
+    border-radius: 4px;
+}
